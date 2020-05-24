@@ -115,3 +115,5 @@ We encourage to try delegation yourself, staking some tokens to other validators
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one
 - `Locked` means that there are no access keys allowing the contract code to be re-deployed. Even a single FullAccess permission access key will cast the locked status to "no"
+| <img src="https://cdn4.vectorstock.com/i/1000x1000/19/43/rocket-icon-rocket-symbol-pictogram-isolated-icon-vector-23251943.jpg" width="40"> | RagnarokStaking | Let's do it, bro! | @rarik12344.betanet | 10% | RU | https://explorer.betanet.near.org/accounts/rarik12344.betanet | No |
+
